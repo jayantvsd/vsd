@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYCDATE</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>DATUM</DOMNAME>
+    <HEADLEN>13</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>Creation Date</DDTEXT>
+    <REPTEXT>Creation Date</REPTEXT>
+    <SCRTEXT_S>CreateDate</SCRTEXT_S>
+    <SCRTEXT_M>Creation Date</SCRTEXT_M>
+    <SCRTEXT_L>Creation Date</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>C</LANGU>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>C</DDLANGUAGE>
+     <DDTEXT>Datum vytvoøení</DDTEXT>
+     <REPTEXT>Datum vytvoø.</REPTEXT>
+     <SCRTEXT_S>Datum vyt.</SCRTEXT_S>
+     <SCRTEXT_M>Datum vytvoøení</SCRTEXT_M>
+     <SCRTEXT_L>Datum vytvoøení</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Erfassungsdatum</DDTEXT>
+     <REPTEXT>Erfass.datum</REPTEXT>
+     <SCRTEXT_S>Erf.datum</SCRTEXT_S>
+     <SCRTEXT_M>Erfassungsdatum</SCRTEXT_M>
+     <SCRTEXT_L>Erfassungsdatum</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

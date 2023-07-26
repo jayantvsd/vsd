@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYWRBTRNET</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>WERT7</DOMNAME>
+    <HEADLEN>10</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>10</SCRLEN3>
+    <DDTEXT>APay Center - Net Amount</DDTEXT>
+    <REPTEXT>Net Amount</REPTEXT>
+    <SCRTEXT_S>Net Amount</SCRTEXT_S>
+    <SCRTEXT_M>Net Amount</SCRTEXT_M>
+    <SCRTEXT_L>Net Amount</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Netto Betrag</DDTEXT>
+     <REPTEXT>Netto</REPTEXT>
+     <SCRTEXT_S>Netto</SCRTEXT_S>
+     <SCRTEXT_M>Netto</SCRTEXT_M>
+     <SCRTEXT_L>Netto</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYEXPTYPE</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>/NRK/APAYEXPTYPE</DOMNAME>
+    <HEADLEN>30</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>APay Center - Expense Type</DDTEXT>
+    <REPTEXT>Expense Type</REPTEXT>
+    <SCRTEXT_S>Exp. Type</SCRTEXT_S>
+    <SCRTEXT_M>Expense Type</SCRTEXT_M>
+    <SCRTEXT_L>Expense Type</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Aufwandsart</DDTEXT>
+     <REPTEXT>Aufwandsart</REPTEXT>
+     <SCRTEXT_S>Aufw.Art</SCRTEXT_S>
+     <SCRTEXT_M>Aufwandsart</SCRTEXT_M>
+     <SCRTEXT_L>Aufwandsart</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

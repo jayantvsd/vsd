@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PDTS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PDTS>
+    <SHORT_TEXT>/nrk/apay13b</SHORT_TEXT>
+    <PLVAR>01</PLVAR>
+    <WI_TEXT>Create APay Center record and assign image</WI_TEXT>
+    <METHOD>
+     <OTYPE>TS</OTYPE>
+     <OBJID>00297654</OBJID>
+     <SWOTP>/NRK/APAY</SWOTP>
+     <SWMTD>IMAGEASSIGNEARLY</SWMTD>
+     <METHTYPE>BO</METHTYPE>
+     <BACKGROUND>X</BACKGROUND>
+     <SYNCHRON>X</SYNCHRON>
+    </METHOD>
+   </PDTS>
+   <CONTAINER>
+    <CONTAINER>
+     <PROPERTIES>
+      <OWN_ID>
+       <INSTID>TS00297654</INSTID>
+       <TYPEID>CL_SWF_CNT_HRS_PERSISTENCE</TYPEID>
+       <CATID>CL</CATID>
+      </OWN_ID>
+      <PROPSTRING>23</PROPSTRING>
+      <XMLVERSION>0002</XMLVERSION>
+      <INTERNAL>X</INTERNAL>
+      <EXDEFINITN>
+       <NAME>_DEF_EXT</NAME>
+       <POR>
+        <INSTID>DIALOG_STEP_CONTAINER</INSTID>
+        <TYPEID>CL_SWF_CNT_PERSISTENCE_DEF_EXT</TYPEID>
+        <CATID>CL</CATID>
+       </POR>
+      </EXDEFINITN>
+     </PROPERTIES>
+     <ELEMENTS>
+      <M NAME="DOCCLASS::" TYPE="::TOADD-DOC_TYPE:C:20:0" PROPS="0C003301"/>
+      <N NAME="DOCUMENTTYPE::" TYPE="::TOAV0-AR_OBJECT:C:10:0" PROPS="0C003301"/>
+      <O NAME="DESCRIPTION::" TYPE="::TOASP-OBJECTTEXT:C:40:0" PROPS="0C003301"/>
+      <P NAME="ORGOBJECT::" TYPE="::WFSYST-AGENT:C:14:0" PROPS="0C003301"/>
+      <Q NAME="APAYCENTEROBJECT:APayCenterObject:" TYPE="/NRK/APAY:BO:::0:0" PROPS="0C920B01"/>
+      <R NAME="CONTENTREPID:ContentRepID:" TYPE="::TOA01-ARCHIV_ID:C:2:0" PROPS="0C003301"/>
+      <S NAME="DOCUMENTID:DocumentID:" TYPE="::TOA01-ARC_DOC_ID:C:40:0" PROPS="0C003301"/>
+      <T NAME="APAYRECORDSTATUS:APayRecordStatus:" TYPE="::/NRK/APAYHD-STATUS:N:4:0" PROPS="0C003301"/>
+      <U NAME="USER:User:" TYPE="::WFSYST-INITIATOR:C:14:0" PROPS="0C003301"/>
+     </ELEMENTS>
+    </CONTAINER>
+   </CONTAINER>
+  </asx:values>
+ </asx:abap>
+</abapGit>

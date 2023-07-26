@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYEXUSER</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>CHAR255</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>28</SCRLEN3>
+    <DDTEXT>APay Center - External User ID</DDTEXT>
+    <REPTEXT>External User ID</REPTEXT>
+    <SCRTEXT_S>Ext.ID</SCRTEXT_S>
+    <SCRTEXT_M>External ID</SCRTEXT_M>
+    <SCRTEXT_L>External User ID</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Externer Benutzer</DDTEXT>
+     <REPTEXT>Externer Benutzer</REPTEXT>
+     <SCRTEXT_S>Extern.B.</SCRTEXT_S>
+     <SCRTEXT_M>Ext. Benutzer</SCRTEXT_M>
+     <SCRTEXT_L>Externer Benutzer</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

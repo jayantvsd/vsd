@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYAPPRFLAG</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>/NRK/APAYAPPRFLAG</DOMNAME>
+    <HEADLEN>17</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>17</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>APay Center - Approval required</DDTEXT>
+    <REPTEXT>Approval required</REPTEXT>
+    <SCRTEXT_S>Appr. req.</SCRTEXT_S>
+    <SCRTEXT_M>Approval required</SCRTEXT_M>
+    <SCRTEXT_L>Approval required</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Genehmigung notwendig</DDTEXT>
+     <REPTEXT>Genehmigung</REPTEXT>
+     <SCRTEXT_S>Genehmig.</SCRTEXT_S>
+     <SCRTEXT_M>Genehmigung</SCRTEXT_M>
+     <SCRTEXT_L>Genehmigung</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

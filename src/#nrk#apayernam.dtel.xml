@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYERNAM</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>USNAM</DOMNAME>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>PO Owner</DDTEXT>
+    <REPTEXT>PO Owner</REPTEXT>
+    <SCRTEXT_S>PO Owner</SCRTEXT_S>
+    <SCRTEXT_M>PO Owner</SCRTEXT_M>
+    <SCRTEXT_L>PO Owner</SCRTEXT_L>
+    <APPLCLASS>SAP</APPLCLASS>
+    <DTELMASTER>D</DTELMASTER>
+    <DEFFDNAME>CREATED_BY</DEFFDNAME>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>1</LANGU>
+    <LANGU>2</LANGU>
+    <LANGU>3</LANGU>
+    <LANGU>4</LANGU>
+    <LANGU>5</LANGU>
+    <LANGU>6</LANGU>
+    <LANGU>C</LANGU>
+    <LANGU>D</LANGU>
+    <LANGU>F</LANGU>
+    <LANGU>G</LANGU>
+    <LANGU>H</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>J</LANGU>
+    <LANGU>K</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>M</LANGU>
+    <LANGU>N</LANGU>
+    <LANGU>O</LANGU>
+    <LANGU>P</LANGU>
+    <LANGU>Q</LANGU>
+    <LANGU>R</LANGU>
+    <LANGU>S</LANGU>
+    <LANGU>T</LANGU>
+    <LANGU>U</LANGU>
+    <LANGU>V</LANGU>
+    <LANGU>W</LANGU>
+    <LANGU>d</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>1</DDLANGUAGE>
+     <DDTEXT>创建对象的人员名称</DDTEXT>
+     <REPTEXT>创建者</REPTEXT>
+     <SCRTEXT_S>已创建的</SCRTEXT_S>
+     <SCRTEXT_M>创建者</SCRTEXT_M>
+     <SCRTEXT_L>创建者</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>2</DDLANGUAGE>
+     <DDTEXT>ชื่อของบุคคลผู้สร้างออบเจค</DDTEXT>
+     <REPTEXT>สร้างโดย</REPTEXT>
+     <SCRTEXT_S>สร้างโดย</SCRTEXT_S>
+     <SCRTEXT_M>สร้างโดย</SCRTEXT_M>
+     <SCRTEXT_L>สร้างโดย</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>3</DDLANGUAGE>
+     <DDTEXT>오브젝트 생성자 이름</DDTEXT>
+     <REPTEXT>생성자</REPTEXT>
+     <SCRTEXT_S>생성</SCRTEXT_S>
+     <SCRTEXT_M>생성자</SCRTEXT_M>
+     <SCRTEXT_L>생성자</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>4</DDLANGUAGE>
+     <DDTEXT>Nume persoană care a creat obiectul</DDTEXT>
+     <REPTEXT>Creat de</REPTEXT>
+     <SCRTEXT_S>Creat</SCRTEXT_S>
+     <SCRTEXT_M>Creat de</SCRTEXT_M>
+     <SCRTEXT_L>Creat de</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>5</DDLANGUAGE>
+     <DDTEXT>Ime referenta, ki je dodal objekt</DDTEXT>
+     <REPTEXT>Kreiral</REPTEXT>
+     <SCRTEXT_S>Kreirano</SCRTEXT_S>
+     <SCRTEXT_M>Kreiral</SCRTEXT_M>
+     <SCRTEXT_L>Kreiral</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>6</DDLANGUAGE>
+     <DDTEXT>Ime osobe koja je kreirala objekt</DDTEXT>
+     <REPTEXT>Kreirao</REPTEXT>
+     <SCRTEXT_S>Kreirano</SCRTEXT_S>
+     <SCRTEXT_M>Kreirao</SCRTEXT_M>
+     <SCRTEXT_L>Kreirao</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>C</DDLANGUAGE>
+     <DDTEXT>Jméno referenta, který objekt založil</DDTEXT>
+     <REPTEXT>Založil</REPTEXT>
+     <SCRTEXT_S>Založeno</SCRTEXT_S>
+     <SCRTEXT_M>Založil</SCRTEXT_M>
+     <SCRTEXT_L>Založil</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>APayCenter - PO Owner</DDTEXT>
+     <REPTEXT>PO Owner</REPTEXT>
+     <SCRTEXT_S>PO Owner</SCRTEXT_S>
+     <SCRTEXT_M>PO Owner</SCRTEXT_M>
+     <SCRTEXT_L>PO Owner</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>F</DDLANGUAGE>
+     <DDTEXT>Nom de l&apos;utilisateur qui a créé l&apos;objet</DDTEXT>
+     <REPTEXT>Créé par</REPTEXT>
+     <SCRTEXT_S>Créé</SCRTEXT_S>
+     <SCRTEXT_M>Créé par</SCRTEXT_M>
+     <SCRTEXT_L>Créé par</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>G</DDLANGUAGE>
+     <DDTEXT>Ονομα Δημιουργού Αντικειμένου</DDTEXT>
+     <REPTEXT>Δημ.από</REPTEXT>
+     <SCRTEXT_S>Δημ.</SCRTEXT_S>
+     <SCRTEXT_M>Δημ.από</SCRTEXT_M>
+     <SCRTEXT_L>Δημιουργημένο από</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>H</DDLANGUAGE>
+     <DDTEXT>Az objektumot létrehozó ügyintéző neve</DDTEXT>
+     <REPTEXT>Létrehozta</REPTEXT>
+     <SCRTEXT_S>Létrehozta</SCRTEXT_S>
+     <SCRTEXT_M>Létrehozta</SCRTEXT_M>
+     <SCRTEXT_L>Létrehozta</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Nome dell&apos;utente che ha inserito l&apos;oggetto</DDTEXT>
+     <REPTEXT>Creato da</REPTEXT>
+     <SCRTEXT_S>Creato</SCRTEXT_S>
+     <SCRTEXT_M>Creato da</SCRTEXT_M>
+     <SCRTEXT_L>Creato da</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>J</DDLANGUAGE>
+     <DDTEXT>オブジェクト登録者名</DDTEXT>
+     <REPTEXT>登録者</REPTEXT>
+     <SCRTEXT_S>登録者</SCRTEXT_S>
+     <SCRTEXT_M>登録者</SCRTEXT_M>
+     <SCRTEXT_L>登録者</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>K</DDLANGUAGE>
+     <DDTEXT>Navn på den sagsbehandler, der har oprettet objektet</DDTEXT>
+     <REPTEXT>Oprettet af</REPTEXT>
+     <SCRTEXT_S>Oprettet</SCRTEXT_S>
+     <SCRTEXT_M>Oprettet af</SCRTEXT_M>
+     <SCRTEXT_L>Oprettet af</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Użytkownik, który utworzył dany obiekt</DDTEXT>
+     <REPTEXT>Utw. przez</REPTEXT>
+     <SCRTEXT_S>Utworzono</SCRTEXT_S>
+     <SCRTEXT_M>Utworzone przez</SCRTEXT_M>
+     <SCRTEXT_L>Utworzone przez</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>M</DDLANGUAGE>
+     <DDTEXT>物件建立者的姓名</DDTEXT>
+     <REPTEXT>建立者</REPTEXT>
+     <SCRTEXT_S>已建立</SCRTEXT_S>
+     <SCRTEXT_M>建立者</SCRTEXT_M>
+     <SCRTEXT_L>建立者</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>N</DDLANGUAGE>
+     <DDTEXT>Naam van de medewerker die het object heeft toegevoegd</DDTEXT>
+     <REPTEXT>Gecr.door</REPTEXT>
+     <SCRTEXT_S>Gecreëerd</SCRTEXT_S>
+     <SCRTEXT_M>Gecreëerd door</SCRTEXT_M>
+     <SCRTEXT_L>Gecreëerd door</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>O</DDLANGUAGE>
+     <DDTEXT>Navn på saksbehandler som opprettet objektet</DDTEXT>
+     <REPTEXT>Opprettet av</REPTEXT>
+     <SCRTEXT_S>Opprettet</SCRTEXT_S>
+     <SCRTEXT_M>Opprettet av</SCRTEXT_M>
+     <SCRTEXT_L>Opprettet av</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>Nome do responsável que adicionou o objeto</DDTEXT>
+     <REPTEXT>Criado por</REPTEXT>
+     <SCRTEXT_S>Criado/a</SCRTEXT_S>
+     <SCRTEXT_M>Criado por</SCRTEXT_M>
+     <SCRTEXT_L>Criado por</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>Q</DDLANGUAGE>
+     <DDTEXT>Meno referenta, ktorý pridal objekt</DDTEXT>
+     <REPTEXT>Založil</REPTEXT>
+     <SCRTEXT_S>Založené</SCRTEXT_S>
+     <SCRTEXT_M>Založil</SCRTEXT_M>
+     <SCRTEXT_L>Založil</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>Имя исполнителя, создавшего объект</DDTEXT>
+     <REPTEXT>Создал</REPTEXT>
+     <SCRTEXT_S>Создал</SCRTEXT_S>
+     <SCRTEXT_M>Создал</SCRTEXT_M>
+     <SCRTEXT_L>Создал</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Nombre del responsable que ha añadido el objeto</DDTEXT>
+     <REPTEXT>Creado por</REPTEXT>
+     <SCRTEXT_S>Creado</SCRTEXT_S>
+     <SCRTEXT_M>Creado por</SCRTEXT_M>
+     <SCRTEXT_L>Creado por</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>T</DDLANGUAGE>
+     <DDTEXT>Nesneyi yaratan sorumlunun adı</DDTEXT>
+     <REPTEXT>Yaratan</REPTEXT>
+     <SCRTEXT_S>Yaratıldı</SCRTEXT_S>
+     <SCRTEXT_M>Yaratan</SCRTEXT_M>
+     <SCRTEXT_L>Yaratan</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>U</DDLANGUAGE>
+     <DDTEXT>Objektin lisänneen käsittelijän nimi</DDTEXT>
+     <REPTEXT>Tekijä</REPTEXT>
+     <SCRTEXT_S>Luotu</SCRTEXT_S>
+     <SCRTEXT_M>Tekijä</SCRTEXT_M>
+     <SCRTEXT_L>Tekijä</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>V</DDLANGUAGE>
+     <DDTEXT>Namn på handläggaren som skapat objektet</DDTEXT>
+     <REPTEXT>Skapat av</REPTEXT>
+     <SCRTEXT_S>Skapat av</SCRTEXT_S>
+     <SCRTEXT_M>Uppläggning av</SCRTEXT_M>
+     <SCRTEXT_L>Uppläggning av</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>W</DDLANGUAGE>
+     <DDTEXT>Име на лицето, създало обекта</DDTEXT>
+     <REPTEXT>Създаден от</REPTEXT>
+     <SCRTEXT_S>Създаден</SCRTEXT_S>
+     <SCRTEXT_M>Създаден от</SCRTEXT_M>
+     <SCRTEXT_L>Създаден от</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>d</DDLANGUAGE>
+     <DDTEXT>Ime osobe koja je kreirala objekat</DDTEXT>
+     <REPTEXT>Kreirao</REPTEXT>
+     <SCRTEXT_S>Kreirano</SCRTEXT_S>
+     <SCRTEXT_M>Kreirao</SCRTEXT_M>
+     <SCRTEXT_L>Kreirao</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+   <LONGTEXTS>
+    <item>
+     <DOKIL>
+      <ID>DE</ID>
+      <OBJECT>/NRK/APAYERNAM</OBJECT>
+      <LANGU>D</LANGU>
+      <TYP>E</TYP>
+      <VERSION>0001</VERSION>
+      <MASTERLANG>X</MASTERLANG>
+      <TXTLINES>00004</TXTLINES>
+      <DOKSTATE>N</DOKSTATE>
+      <SELFDEF>2</SELFDEF>
+     </DOKIL>
+     <HEAD>
+      <TDOBJECT>DOKU</TDOBJECT>
+      <TDNAME>/NRK/APAYERNAM</TDNAME>
+      <TDID>DE</TDID>
+      <TDSPRAS>D</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00001</TDVERSION>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEAD>
+    </item>
+   </LONGTEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

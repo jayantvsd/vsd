@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYSTIME</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>UZEIT</DOMNAME>
+    <HEADLEN>23</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>23</SCRLEN3>
+    <DDTEXT>APay Record Status Time</DDTEXT>
+    <REPTEXT>APay Record Status Time</REPTEXT>
+    <SCRTEXT_S>St.Time</SCRTEXT_S>
+    <SCRTEXT_M>APay Status Time</SCRTEXT_M>
+    <SCRTEXT_L>APay Record Status Time</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Status Zeit</DDTEXT>
+     <REPTEXT>Status Zeit</REPTEXT>
+     <SCRTEXT_S>St.Zeit</SCRTEXT_S>
+     <SCRTEXT_M>Status Zeit</SCRTEXT_M>
+     <SCRTEXT_L>Status Zeit</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

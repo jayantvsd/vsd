@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYSDESCR</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>/NRK/APAYSDESCR</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>18</SCRLEN2>
+    <SCRLEN3>30</SCRLEN3>
+    <DDTEXT>APay Record Status Description</DDTEXT>
+    <REPTEXT>APay Record Status Description</REPTEXT>
+    <SCRTEXT_S>St.Desc.</SCRTEXT_S>
+    <SCRTEXT_M>Status Description</SCRTEXT_M>
+    <SCRTEXT_L>APay Record Status Description</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>C</LANGU>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>C</DDLANGUAGE>
+     <DDTEXT>Popis statusu</DDTEXT>
+     <REPTEXT>Popis statusu</REPTEXT>
+     <SCRTEXT_S>Statusu</SCRTEXT_S>
+     <SCRTEXT_M>Popis statusu</SCRTEXT_M>
+     <SCRTEXT_L>Popis statusu</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Status Beschreibung</DDTEXT>
+     <REPTEXT>Status Beschreibung</REPTEXT>
+     <SCRTEXT_S>St.Beschr.</SCRTEXT_S>
+     <SCRTEXT_M>Status Beschr.</SCRTEXT_M>
+     <SCRTEXT_L>Status Beschreibung</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

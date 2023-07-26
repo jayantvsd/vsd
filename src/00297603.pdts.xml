@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PDTS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PDTS>
+    <SHORT_TEXT>/nrk/apay3b</SHORT_TEXT>
+    <PLVAR>01</PLVAR>
+    <WI_TEXT>APay Center - Update SharePoint</WI_TEXT>
+    <METHOD>
+     <OTYPE>TS</OTYPE>
+     <OBJID>00297603</OBJID>
+     <SWOTP>/NRK/APAY</SWOTP>
+     <SWMTD>INDEXSHAREPOINT</SWMTD>
+     <METHTYPE>BO</METHTYPE>
+     <BACKGROUND>X</BACKGROUND>
+     <SYNCHRON>X</SYNCHRON>
+    </METHOD>
+    <STARTING_EVENTS>
+     <HRSEVENTS>
+      <SUBTY>0001</SUBTY>
+      <CLSTYP>BO</CLSTYP>
+      <OBJTYP>/NRK/APAY</OBJTYP>
+      <EVENT>CHANGED</EVENT>
+     </HRSEVENTS>
+    </STARTING_EVENTS>
+    <STARTING_EVENTS_BINDING>
+     <HRS1212>
+      <OTYPE>TS</OTYPE>
+      <OBJID>00297603</OBJID>
+      <SUBTY>0001</SUBTY>
+      <CLSTYP>BO</CLSTYP>
+      <OBJTYP>/NRK/APAY</OBJTYP>
+      <EVENT>CHANGED</EVENT>
+      <DATAFLOW>E</DATAFLOW>
+      <TAB_INDEX>000001</TAB_INDEX>
+      <EXPR>&amp;_EVT_OBJECT&amp;</EXPR>
+      <SOURCETYPE>S</SOURCETYPE>
+      <TARGETTYPE>S</TARGETTYPE>
+      <TARGETEXPR>&amp;_WI_OBJECT_ID&amp;</TARGETEXPR>
+      <OPERATION>ASN</OPERATION>
+      <OPCLASS>E</OPCLASS>
+     </HRS1212>
+    </STARTING_EVENTS_BINDING>
+   </PDTS>
+   <CONTAINER>
+    <CONTAINER>
+     <PROPERTIES>
+      <OWN_ID>
+       <INSTID>TS00297603</INSTID>
+       <TYPEID>CL_SWF_CNT_HRS_PERSISTENCE</TYPEID>
+       <CATID>CL</CATID>
+      </OWN_ID>
+      <PROPSTRING>23000000000008</PROPSTRING>
+      <XMLVERSION>0002</XMLVERSION>
+      <INTERNAL>X</INTERNAL>
+      <EXDEFINITN>
+       <NAME>_DEF_EXT</NAME>
+       <POR>
+        <INSTID>DIALOG_STEP_CONTAINER</INSTID>
+        <TYPEID>CL_SWF_CNT_PERSISTENCE_DEF_EXT</TYPEID>
+        <CATID>CL</CATID>
+       </POR>
+      </EXDEFINITN>
+     </PROPERTIES>
+     <ELEMENTS>
+      <M NAME="WEBSERVICE:WebService:" TYPE="::HRB2A_S_PROT-TEXT:C:255:0" PROPS="0C0031">http://erpl64sps13/inetdm/autoindexwebservice.ashx</M>
+     </ELEMENTS>
+    </CONTAINER>
+   </CONTAINER>
+  </asx:values>
+ </asx:abap>
+</abapGit>

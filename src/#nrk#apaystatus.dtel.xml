@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYSTATUS</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>NUMC4</DOMNAME>
+    <HEADLEN>18</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>18</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>APay Record Status</DDTEXT>
+    <REPTEXT>APay Record Status</REPTEXT>
+    <SCRTEXT_S>APayStatus</SCRTEXT_S>
+    <SCRTEXT_M>APay Record Status</SCRTEXT_M>
+    <SCRTEXT_L>APay Record Status</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>APay Center Status</DDTEXT>
+     <REPTEXT>APay Center Status</REPTEXT>
+     <SCRTEXT_S>APay St.</SCRTEXT_S>
+     <SCRTEXT_M>APay Center Status</SCRTEXT_M>
+     <SCRTEXT_L>APay Center Status</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

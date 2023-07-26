@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/NRK/APAYNO</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>NUMC10</DOMNAME>
+    <HEADLEN>21</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>21</SCRLEN3>
+    <DDTEXT>APay Record ID</DDTEXT>
+    <REPTEXT>APay Record ID</REPTEXT>
+    <SCRTEXT_S>APay Rec.</SCRTEXT_S>
+    <SCRTEXT_M>APay Record ID</SCRTEXT_M>
+    <SCRTEXT_L>APay Record ID</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>C</LANGU>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>C</DDLANGUAGE>
+     <DDTEXT>APay záznam</DDTEXT>
+     <REPTEXT>APay záznam</REPTEXT>
+     <SCRTEXT_S>APay</SCRTEXT_S>
+     <SCRTEXT_M>APay záznam</SCRTEXT_M>
+     <SCRTEXT_L>APay záznam</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>APay Eintragsnummer</DDTEXT>
+     <REPTEXT>APay Eintragsnummer</REPTEXT>
+     <SCRTEXT_S>APay Entr.</SCRTEXT_S>
+     <SCRTEXT_M>APay Eintrag</SCRTEXT_M>
+     <SCRTEXT_L>APay Eintragsnummer</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
